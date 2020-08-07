@@ -13,7 +13,7 @@ const Header = props => {
     </View>
   );
 };
-
+//adding streak
 const styles = StyleSheet.create({
     header: {
         width: '100%',
