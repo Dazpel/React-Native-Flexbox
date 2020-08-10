@@ -18,12 +18,14 @@ const styles = StyleSheet.create({
     header: {
         width: '100%',
         height: 90,
-        paddingTop:36,
+        paddingTop:35,
         backgroundColor: Colors.primary,
         alignItems: "center",
         justifyContent: 'center'
         
     },
 });
+
+//comment 
 
 export default Header;
